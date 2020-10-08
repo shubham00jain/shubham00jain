@@ -1,4 +1,8 @@
-### Hi there 👋
+### 🌟 Try not to become a man of success, but rather try to become a man of value. - Albert Einstein
+👋 Hi there! I am Shubham. Nice to meet you! I am a highly motivated **B.Tech Computer Science student** and a **forever learner**. I love to work on and learn
+about **web technologies**, **computer graphics** and **Artifical Intelligence**. I enjoy video-game development and music in my free time. Ask me what
+I'm learning today!💬
+
 
 <!--
 **shubham00jain/shubham00jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
