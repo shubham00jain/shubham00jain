@@ -1,6 +1,6 @@
 ### 🌟 Try not to become a man of success, but rather try to become a man of value. - 🗝 Albert Einstein
 👋 Hi there! I am Shubham. Nice to meet you! I am a highly motivated **B.Tech Computer Science student** and a **forever learner**. I love to work on and learn
-about **web technologies**, **computer graphics** and **Artifical Intelligence**. I enjoy video-game development and music in my free time. Ask me what
+about **web technologies**, **computer graphics** and **Artifical Intelligence**. I enjoy video-game development, music and fiction writing in my free time. Ask me what
 I'm learning today!💬
 
 
