@@ -3,6 +3,8 @@
 about **web technologies**, **computer graphics** and **Artifical Intelligence**. I enjoy video-game development and music in my free time. Ask me what
 I'm learning today!💬
 
+⚡ Profile : https://shubham00jain.github.io/
+⚡ Linkedin : https://www.linkedin.com/in/shubham-jain-79b74712a/
 
 <!--
 **shubham00jain/shubham00jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
