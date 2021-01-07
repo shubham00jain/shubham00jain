@@ -3,7 +3,7 @@
 about **web technologies**, **computer graphics** and **Artifical Intelligence**. I enjoy video-game development and music in my free time. Ask me what
 I'm learning today!💬
 
-I love contributing to opensource software in my spare time. Look at some of my profiles below:
+I love contributing to opensource software in my spare time. Look at some of my profiles below: <br />
 ✍️ Wikimedia : https://gerrit.wikimedia.org/r/q/owner:shubham656jain%2540gmail.com <br />
 ✍️ Libreoffice : https://gerrit.libreoffice.org/q/owner:shubham656jain%2540gmail.com
 
