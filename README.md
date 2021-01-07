@@ -7,6 +7,7 @@ I love contributing to opensource software in my spare time. Look at some of my 
 ✍️ Wikimedia : https://gerrit.wikimedia.org/r/q/owner:shubham656jain%2540gmail.com <br />
 ✍️ Libreoffice : https://gerrit.libreoffice.org/q/owner:shubham656jain%2540gmail.com
 
+Know more about me here: <br />
 ⚡ Profile : https://shubham00jain.github.io/ <br />
 ⚡ Linkedin : https://www.linkedin.com/in/shubham-jain-79b74712a/
 
