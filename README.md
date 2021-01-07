@@ -3,7 +3,7 @@
 about **web technologies**, **computer graphics** and **Artifical Intelligence**. I enjoy video-game development and music in my free time. Ask me what
 I'm learning today!💬
 
-⚡ Profile : https://shubham00jain.github.io/
+⚡ Profile : https://shubham00jain.github.io/ <br />
 ⚡ Linkedin : https://www.linkedin.com/in/shubham-jain-79b74712a/
 
 <!--
