@@ -4,8 +4,8 @@ about **web technologies**, **computer graphics** and **Artifical Intelligence**
 I'm learning today!💬
 
 I love contributing to opensource software in my spare time. Look at some of my profiles below: <br />
-✍️ Wikimedia : https://gerrit.wikimedia.org/r/q/owner:shubham656jain%2540gmail.com <br />
-✍️ Libreoffice : https://gerrit.libreoffice.org/q/owner:shubham656jain%2540gmail.com
+:computer: Wikimedia : https://gerrit.wikimedia.org/r/q/owner:shubham656jain%2540gmail.com <br />
+:computer: Libreoffice : https://gerrit.libreoffice.org/q/owner:shubham656jain%2540gmail.com
 
 Know more about me here: <br />
 ⚡ Profile : https://shubham00jain.github.io/ <br />
