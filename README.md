@@ -1,10 +1,11 @@
 👋 Hi there! I am Shubham. Nice to meet you! I am a highly motivated **B.Tech Computer Science student** and a **forever learner**. I love to work on and learn
-about **web technologies**, **computer graphics** and **Artifical Intelligence**. I enjoy video-game development and music in my free time. Ask me what
+about **web technologies**, **software development** and **backend development**. I enjoy video-game development and music in my free time. Ask me what
 I'm learning today!💬
 
 I love contributing to opensource software in my spare time. Look at some of my profiles below: <br />
 :computer: Wikimedia : https://gerrit.wikimedia.org/r/q/owner:shubham656jain%2540gmail.com <br />
 :computer: Libreoffice : https://gerrit.libreoffice.org/q/owner:shubham656jain%2540gmail.com
+PS - I've also been selected as a student developer at Google Summer of Code (GSoC) 2021 for a project at Libreoffice. 
 
 Know more about me here: <br />
 ⚡ Portfolio : https://shubham00jain.github.io/ <br />
