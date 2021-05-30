@@ -4,7 +4,7 @@ I'm learning today!💬
 
 I love contributing to opensource software in my spare time. Look at some of my profiles below: <br />
 :computer: Wikimedia : https://gerrit.wikimedia.org/r/q/owner:shubham656jain%2540gmail.com <br />
-:computer: Libreoffice : https://gerrit.libreoffice.org/q/owner:shubham656jain%2540gmail.com <br /><br />
+:computer: Libreoffice : https://gerrit.libreoffice.org/q/owner:shubham656jain%2540gmail.com <br />
 PS - I've also been selected as a student developer at Google Summer of Code (GSoC) 2021 for a project at Libreoffice. <br />
 
 Know more about me here: <br />
