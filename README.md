@@ -1,7 +1,3 @@
-👋 Hi there! I am Shubham. Nice to meet you! I am a highly motivated **B.Tech Computer Science student** and a **forever learner**. I love to work on and learn
-about **web technologies**, **software engineering** and **backend engineering**. I enjoy video games and music in my free time. Ask me what
-I'm learning today!💬
-
 I love contributing to opensource software in my spare time. Look at some of my profiles below: <br />
 :computer: Wikimedia : https://gerrit.wikimedia.org/r/q/owner:shubham656jain%2540gmail.com <br />
 :computer: Libreoffice : https://gerrit.libreoffice.org/q/owner:shubham656jain%2540gmail.com <br />
